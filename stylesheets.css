@@ -1,0 +1,129 @@
+
+body {
+    background-color: #031B33;
+    color: #E0F2FE;
+    text-align: center;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    border: 4px solid #00D2FF;
+    border-radius: 15px;
+}
+
+
+h1 {
+    color: #FF2E63;
+    text-align: center;
+    font-size: 38px;
+    padding: 20px;
+    border: 3px solid #FF2E63;
+    border-radius: 12px;
+    box-shadow: 0 0 12px #FF2E63;
+}
+
+
+h2 {
+    color: #00D2FF;
+    text-align: center;
+    font-size: 26px;
+    padding: 12px;
+    border: 2px solid #00D2FF;
+    border-radius: 10px;
+}
+
+h3 {
+    color: #FF5252;
+    text-align: center;
+    font-size: 22px;
+    padding: 10px;
+    border: 2px solid #FF5252;
+    border-radius: 8px;
+}
+
+
+h4, h5, h6 {
+    color: #80D8FF;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    border: 2px solid #80D8FF;
+    border-radius: 8px;
+}
+
+
+p {
+    color: #D1E8FF;
+    text-align: center;
+    font-size: 18px;
+    line-height: 1.7;
+    padding: 15px;
+    border: 1px solid #00D2FF;
+    border-left: 5px solid #FF2E63;
+    border-radius: 10px;
+    margin: 15px auto;
+}
+
+
+a {
+    display: inline-block;
+    color: #FFFFFF;
+    background-color: #D32F2F;
+    text-align: center;
+    font-size: 18px;
+    text-decoration: none;
+    padding: 10px 18px;
+    margin: 5px;
+    border: 2px solid #FF5252;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+
+a:hover {
+    border-color: #00D2FF;
+    box-shadow: 0 0 10px #00D2FF;
+    transform: translateY(-3px);
+}
+
+
+img {
+    max-width: 90%;
+    height: auto;
+    border: 4px solid #00D2FF;
+    border-radius: 12px;
+    padding: 5px;
+    background-color: #00203F;
+    box-shadow: 0 0 12px #00D2FF;
+}
+ 
+
+ul, ol {
+    display: inline-block;
+    background-color: #00203F;
+    color: #E0F2FE;
+    text-align: left;
+    font-size: 18px;
+    padding: 20px 35px;
+    border: 2px solid #80D8FF;
+    border-left: 6px solid #FF2E63;
+    border-radius: 10px;
+    line-height: 1.8;
+}
+
+
+li {
+    color: #E0F2FE;
+    text-align: left;
+    font-size: 18px;
+    padding: 3px;
+}
+
+
+hr {
+    border: none;
+    height: 3px;
+    background-color: #00D2FF;
+    border-radius: 5px;
+    margin: 25px 0;
+}
